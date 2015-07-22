@@ -1,0 +1,13 @@
+/.gradle/
+*.ipr
+*.iml
+*.iws
+/out/
+/build/
+/.idea/
+src/main/groovy/org/veil/gradle/plugins/.DS_Store
+.classpath
+.project
+bin/
+.settings/
+*.bak
